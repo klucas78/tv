@@ -46,11 +46,8 @@ http://iptv365.xyz:900/1693791941/7656301221/62813
 
 
 
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3.png" group-title="EU | SPAIN SD",ES| DAZN 3 SD
-http://iptv365.xyz:900/1693791941/7656301221/400218227
 
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4.png" group-title="EU | SPAIN SD",ES| DAZN 4 SD
-http://iptv365.xyz:900/1693791941/7656301221/400218226
+
 
 
 
@@ -63,7 +60,7 @@ http://iptv365.xyz:900/1693791941/7656301221/165888
 http://iptv365.xyz:900/1693791941/7656301221/400241869
 #EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA HEVC" tvg-logo="https://lo1.in/LOGO/SPAIN/MFORMULA1.png" group-title="DAZN",ES| DAZN F1 ESPAÑA HEVC
 http://iptv365.xyz:900/1693791941/7656301221/189462
-#EXTINF:-1 tvg-id="daznf14k.es" tvg-name="ES| DAZN F1 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN SD",ES| DAZN F1 SD
+#EXTINF:-1 tvg-id="daznf14k.es" tvg-name="ES| DAZN F1 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="DAZN",ES| DAZN F1 SD
 http://iptv365.xyz:900/1693791941/7656301221/400218225
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="DAZN",ES| DAZN 1 ESPAÑA HD
 http://iptv365.xyz:900/1693791941/7656301221/165068
@@ -71,7 +68,7 @@ http://iptv365.xyz:900/1693791941/7656301221/165068
 http://iptv365.xyz:900/1693791941/7656301221/360194
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÑA HEVC" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="DAZN",ES| DAZN 1 ESPAÑA HEVC
 http://iptv365.xyz:900/1693791941/7656301221/360196
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN SD",ES| DAZN 1 SD
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="DAZN",ES| DAZN 1 SD
 http://iptv365.xyz:900/1693791941/7656301221/400218246
 #EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÑA HD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN2.png" group-title="DAZN",ES| DAZN 2 ESPAÑA HD
 http://iptv365.xyz:900/1693791941/7656301221/165070
@@ -79,7 +76,7 @@ http://iptv365.xyz:900/1693791941/7656301221/165070
 http://iptv365.xyz:900/1693791941/7656301221/360195
 #EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÑA HEVC" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="DAZN",ES| DAZN 2 ESPAÑA HEVC
 http://iptv365.xyz:900/1693791941/7656301221/360197
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN2.png" group-title="EU | SPAIN SD",ES| DAZN 2 SD
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN2.png" group-title="DAZN",ES| DAZN 2 SD
 http://iptv365.xyz:900/1693791941/7656301221/400218228
 #EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÑA HD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3ESPA%C3%91A.png" group-title="DAZN",ES| DAZN 3 ESPAÑA HD
 http://iptv365.xyz:900/1693791941/7656301221/379046
@@ -87,7 +84,7 @@ http://iptv365.xyz:900/1693791941/7656301221/379046
 http://iptv365.xyz:900/1693791941/7656301221/379042
 #EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÑA HEVC" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3ESPA%C3%91A.png" group-title="DAZN",ES| DAZN 3 ESPAÑA HEVC
 http://iptv365.xyz:900/1693791941/7656301221/379044
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3.png" group-title="EU | SPAIN SD",ES| DAZN 3 SD
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3.png" group-title="DAZN",ES| DAZN 3 SD
 http://iptv365.xyz:900/1693791941/7656301221/400218227
 #EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÑA HD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4espana.png" group-title="DAZN",ES| DAZN 4 ESPAÑA HD
 http://iptv365.xyz:900/1693791941/7656301221/379047
@@ -95,7 +92,7 @@ http://iptv365.xyz:900/1693791941/7656301221/379047
 http://iptv365.xyz:900/1693791941/7656301221/379043
 #EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÑA HEVC" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4espana.png" group-title="DAZN",ES| DAZN 4 ESPAÑA HEVC
 http://iptv365.xyz:900/1693791941/7656301221/379045
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4.png" group-title="EU | SPAIN SD",ES| DAZN 4 SD
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 SD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4.png" group-title="DAZN",ES| DAZN 4 SD
 http://iptv365.xyz:900/1693791941/7656301221/400218226
 
 
