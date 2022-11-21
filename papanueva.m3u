@@ -1,0 +1,490 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: M.LALIGA FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/campeonato_espanhol_hd.jpg" group-title="LA LIGA",ES: M.LALIGA FHD
+http://ottmo.co:8000/50803040338338/47874753002875/30202
+#EXTINF:-1 tvg-id="MLaliga.es" tvg-name="ES: MOVISTAR LALIGA HD" tvg-logo="" group-title="LA LIGA",ES: MOVISTAR LALIGA HD
+http://ottmo.co:8000/50803040338338/47874753002875/103307
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="" group-title="LA LIGA",ES: M. LaLiga HD
+http://ottmo.co:8000/50803040338338/47874753002875/149070
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M.LALIGA" tvg-logo="" group-title="LA LIGA",ES: M.LALIGA
+http://ottmo.co:8000/50803040338338/47874753002875/103244
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="ES: LaLiga BAR FHD" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="LA LIGA",ES: LaLiga BAR FHD
+http://ottmo.co:8000/50803040338338/47874753002875/30024
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="M.LALIGA TV BAR HD" tvg-logo="" group-title="LA LIGA",ES:M.LALIGA TV BAR HD
+http://ottmo.co:8000/50803040338338/47874753002875/103306
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="ES: LALIGATV BAR 1" tvg-logo="https://www.gamestop.es/wp-content/uploads/2019/04/La-Liga-TV.png" group-title="LA LIGA",ES: LALIGATV BAR 1
+http://ottmo.co:8000/50803040338338/47874753002875/30119
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA SD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA",MOVISTAR  LA LIGA SD
+http://ottmo.co:8000/50803040338338/47874753002875/236740
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA",MOVISTAR LA LIGA HD ᴿ
+http://ottmo.co:8000/50803040338338/47874753002875/236739
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA FHD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA",MOVISTAR LA LIGA FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236738
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA FHD H.265" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA",MOVISTAR  LA LIGA FHD H.265
+http://ottmo.co:8000/50803040338338/47874753002875/236737
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA (OP B)" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA",MOVISTAR LA LIGA (OP B)
+http://ottmo.co:8000/50803040338338/47874753002875/236736
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR SD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="LA LIGA",LALIGATV BAR SD ᴿ
+http://ottmo.co:8000/50803040338338/47874753002875/236735
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="LA LIGA",LA LIGA TV BAR HD
+http://ottmo.co:8000/50803040338338/47874753002875/236734
+#EXTINF:-1 tvg-id="" tvg-name="LIGATV BAR FHD" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="LA LIGA",LIGATV BAR FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236733
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1( SOLO EVENTO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA",MOVISTAR LA LIGA 1( SOLO EVENTO)
+http://ottmo.co:8000/50803040338338/47874753002875/236732
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA",MOVISTAR LA LIGA 1 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236731
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 FHD " tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA",MOVISTAR LA LIGA 1 FHD 
+http://ottmo.co:8000/50803040338338/47874753002875/236730
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 HD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA",MOVISTAR LA LIGA 2 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236729
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 2 FHD" tvg-logo="http://xtitan.xyz:2082/images/de1cfd334d52a0f07bf9ce446bdccc4a.png" group-title="LA LIGA",MOVISTAR  LA LIGA 2 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236728
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 3 SD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA",MOVISTAR  LA LIGA 3 SD
+http://ottmo.co:8000/50803040338338/47874753002875/236727
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA",MOVISTAR LA LIGA 3 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236726
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA",MOVISTAR LA LIGA 3 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236725
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 4 HD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA",MOVISTAR  LA LIGA 4 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236724
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA",MOVISTAR LA LIGA 4 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236723
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 5 SD" tvg-logo="http://xtitan.xyz:2082/images/7e9dab50e6fba180ad93b9ed27155082.png" group-title="LA LIGA",MOVISTAR  LA LIGA 5 SD
+http://ottmo.co:8000/50803040338338/47874753002875/236722
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA",MOVISTAR LA LIGA 5 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236721
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA",MOVISTAR LA LIGA 5 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236720
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA",MOVISTAR  LA LIGA 6 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236719
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK  TV SD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA",ES: LA LIGA SMARTBANK  TV SD
+http://ottmo.co:8000/50803040338338/47874753002875/236960
+#EXTINF:-1 tvg-id="" tvg-name="ES:  LA LIGA SMARTBANK TV HD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA",ES:  LA LIGA SMARTBANK TV HD
+http://ottmo.co:8000/50803040338338/47874753002875/236959
+#EXTINF:-1 tvg-id="" tvg-name="ES:LA LIGA SMARTBANK TV FHD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA",ES:LA LIGA SMARTBANK TV FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236958
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV FHD (OP1)" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA",ES: LA LIGA SMARTBANK TV FHD (OP1)
+http://ottmo.co:8000/50803040338338/47874753002875/236957
+#EXTINF:-1 tvg-id="" tvg-name="ES LA LIGA SMARTBANK TV 1 SD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA",ES LA LIGA SMARTBANK TV 1 SD
+http://ottmo.co:8000/50803040338338/47874753002875/236956
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV 1 HD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA",ES: LA LIGA SMARTBANK TV 1 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236955
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV 1 FHD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA",ES: LA LIGA SMARTBANK TV 1 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236954
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV 1 FHD  (OP1)" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA",ES: LA LIGA SMARTBANK TV 1 FHD  (OP1)
+http://ottmo.co:8000/50803040338338/47874753002875/236953
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 1 SD" tvg-logo="" group-title="DAZN LIGA - DAZN",M. DAZN LA LIGA 1 SD
+http://ottmo.co:8000/50803040338338/47874753002875/236745
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 1 HD" tvg-logo="" group-title="DAZN LIGA - DAZN",M. DAZN LA LIGA 1 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236744
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 1 FHD" tvg-logo="" group-title="DAZN LIGA - DAZN",M. DAZN LA LIGA 1 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236743
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 2 SD" tvg-logo="" group-title="DAZN LIGA - DAZN",M. DAZN LA LIGA 2 SD
+http://ottmo.co:8000/50803040338338/47874753002875/236742
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 2 FHD" tvg-logo="" group-title="DAZN LIGA - DAZN",M. DAZN LA LIGA 2 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236741
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 1
+http://ottmo.co:8000/50803040338338/47874753002875/236692
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 1 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236691
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 1 FHD.
+http://ottmo.co:8000/50803040338338/47874753002875/236690
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana FHD" tvg-logo="" group-title="DAZN LIGA - DAZN",ES: Dazn 1 Espana FHD
+http://ottmo.co:8000/50803040338338/47874753002875/149075
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana HD" tvg-logo="" group-title="DAZN LIGA - DAZN",ES: Dazn 1 Espana HD
+http://ottmo.co:8000/50803040338338/47874753002875/149074
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana FHD" tvg-logo="" group-title="DAZN LIGA - DAZN",ES: Dazn 2 Espana FHD
+http://ottmo.co:8000/50803040338338/47874753002875/149073
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana HD" tvg-logo="" group-title="DAZN LIGA - DAZN",ES: Dazn 2 Espana HD
+http://ottmo.co:8000/50803040338338/47874753002875/149072
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 1 FHD" tvg-logo="" group-title="DAZN LIGA - DAZN",ES: M. Dazn 1 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/149068
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 2 FHD" tvg-logo="" group-title="DAZN LIGA - DAZN",ES: M. Dazn 2 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/149067
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: DAZN 2" tvg-logo="https://www.lemagsportauto.com/wp-content/uploads/2016/11/Moto-GP-horaires-des-libres-et-qualifications-du-GP-de-Valence-e1478925856702.jpg" group-title="DAZN LIGA - DAZN",ES: DAZN 2 
+http://ottmo.co:8000/50803040338338/47874753002875/86823
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 2
+http://ottmo.co:8000/50803040338338/47874753002875/236689
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2 HD " tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 2 HD 
+http://ottmo.co:8000/50803040338338/47874753002875/236688
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 2 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236687
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2 FHD." tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 2 FHD.
+http://ottmo.co:8000/50803040338338/47874753002875/236686
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 3 HD." tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 3 HD.
+http://ottmo.co:8000/50803040338338/47874753002875/236685
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 3 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 3 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236684
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 4 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236683
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 4 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR 4 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236682
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR  F1 ᴿ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR  F1 ᴿ
+http://ottmo.co:8000/50803040338338/47874753002875/236696
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR F1 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236695
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR F1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR F1 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236694
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR F1 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN LIGA - DAZN",DAZN MOVISTAR F1 4K
+http://ottmo.co:8000/50803040338338/47874753002875/236693
+
+
+
+#EXTINF:-1 tvg-id="M.LIGA DE CAMPEONES" tvg-name="M.LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LIGA DE CAMPEONES",ES: M.LIGA DE CAMPEONES
+http://ottmo.co:8000/50803040338338/47874753002875/30029
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="ES: LIGA CAMPEONES 2 HD" tvg-logo="http://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/54/M_Liga-de-Campeones_2.png" group-title="LIGA DE CAMPEONES",ES: LIGA CAMPEONES 2 HD
+http://ottmo.co:8000/50803040338338/47874753002875/30026
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="LIGA DE CAMPEONES",ES: LIGA CAMPEONES
+http://ottmo.co:8000/50803040338338/47874753002875/30025
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="LIGA DE CAMPEONES",ES: LIGA CAMPEONES
+http://ottmo.co:8000/50803040338338/47874753002875/30130
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES SD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA CAMPEONES SD ᴿ
+http://ottmo.co:8000/50803040338338/47874753002875/236718
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES HD" tvg-logo="9http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA CAMPEONES HD
+http://ottmo.co:8000/50803040338338/47874753002875/236717
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES HD(OP B)" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA CAMPEONES HD(OP B)
+http://ottmo.co:8000/50803040338338/47874753002875/236716
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA CAMPEONES FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236715
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES FHD (OP B)" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA CAMPEONES FHD (OP B)
+http://ottmo.co:8000/50803040338338/47874753002875/236714
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 1 SD
+http://ottmo.co:8000/50803040338338/47874753002875/236713
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 1 HD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA CAMPEONES 1 HD ᴿ
+http://ottmo.co:8000/50803040338338/47874753002875/236712
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 1 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236711
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 2 SD
+http://ottmo.co:8000/50803040338338/47874753002875/236710
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236709
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 3
+http://ottmo.co:8000/50803040338338/47874753002875/236708
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 4
+http://ottmo.co:8000/50803040338338/47874753002875/236707
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 5
+http://ottmo.co:8000/50803040338338/47874753002875/236706
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 6
+http://ottmo.co:8000/50803040338338/47874753002875/236705
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 7
+http://ottmo.co:8000/50803040338338/47874753002875/236704
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 8
+http://ottmo.co:8000/50803040338338/47874753002875/236703
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS SD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="VAMOS-DEPORTES",MOVISTAR VAMOS SD ᴿ
+http://ottmo.co:8000/50803040338338/47874753002875/236765
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS HD" tvg-logo="http://x.mdcam.live:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="VAMOS-DEPORTES",MOVISTAR VAMOS HD
+http://ottmo.co:8000/50803040338338/47874753002875/236764
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  VAMOS FHD" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="VAMOS-DEPORTES",MOVISTAR  VAMOS FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236763
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES: MOVISTAR VAMOS" tvg-logo="https://www.adslzone.net/app/uploads/2018/08/vamos.jpg" group-title="VAMOS-DEPORTES",ES: MOVISTAR VAMOS
+http://ottmo.co:8000/50803040338338/47874753002875/30108
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES: MOVISTAR F1 FHD" tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="VAMOS-DEPORTES",ES: MOVISTAR F1 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/30096
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: M. DEPORTESHD" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="VAMOS-DEPORTES",ES: M. DEPORTESHD
+http://ottmo.co:8000/50803040338338/47874753002875/30023
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: MOVISTAR DEPORTE HD" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png?resize=609%2C235" group-title="VAMOS-DEPORTES",ES: MOVISTAR DEPORTE HD
+http://ottmo.co:8000/50803040338338/47874753002875/30016
+#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="ES: M. DEPORTES1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="VAMOS-DEPORTES",ES: M. DEPORTES1
+http://ottmo.co:8000/50803040338338/47874753002875/30037
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES6" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="VAMOS-DEPORTES",ES: M. DEPORTES6
+http://ottmo.co:8000/50803040338338/47874753002875/30032
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: MOVISTAR DEPORTES" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png?resize=609%2C235" group-title="VAMOS-DEPORTES",ES: MOVISTAR DEPORTES
+http://ottmo.co:8000/50803040338338/47874753002875/30114
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES SD ᴿ" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES SD ᴿ
+http://ottmo.co:8000/50803040338338/47874753002875/236761
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES HD
+http://ottmo.co:8000/50803040338338/47874753002875/236760
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236759
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  DEPORTES 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="VAMOS-DEPORTES",MOVISTAR  DEPORTES 1 SD
+http://ottmo.co:8000/50803040338338/47874753002875/236758
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 1 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236757
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 1 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236756
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 2 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236755
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 2 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236754
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 3 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236753
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 3 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236752
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 4 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 4 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236751
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES  4 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES  4 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236750
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 4 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 4 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236749
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES  5 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES  5 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236748
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 5 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 5 FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236747
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 6 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES",MOVISTAR DEPORTES 6 HD
+http://ottmo.co:8000/50803040338338/47874753002875/236746
+ottmo.co:8000/50803040338338/47874753002875/236641
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="TOROS PESCA AUTONOMICOS",TOROS HD
+http://ottmo.co:8000/50803040338338/47874753002875/236640
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV FHD" tvg-logo="http://bm-7-arephmhhbsb5brbb.z01.azurefd.net:80/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="TOROS PESCA AUTONOMICOS",TOROS TV FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236639
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA  SD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="TOROS PESCA AUTONOMICOS",CAZA Y PESCA  SD
+http://ottmo.co:8000/50803040338338/47874753002875/236638
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA  HD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="TOROS PESCA AUTONOMICOS",CAZA Y PESCA  HD
+http://ottmo.co:8000/50803040338338/47874753002875/236637
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA  FHD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="TOROS PESCA AUTONOMICOS",CAZA Y PESCA  FHD
+http://ottmo.co:8000/50803040338338/47874753002875/236636
+#EXTINF:-1 tvg-id="" tvg-name="ANDALUCIA TV" tvg-logo="http://xtitan.xyz:2082/images/ac3dbeac05bddeae4ca8e3bd0a8c5544.png" group-title="TOROS PESCA AUTONOMICOS",ANDALUCIA TV
+http://ottmo.co:8000/50803040338338/47874753002875/236594
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR" tvg-logo="http://xtitan.xyz:2082/images/ac45c34b1c8bee0f7fc7399817c160cd.png" group-title="TOROS PESCA AUTONOMICOS",CANAL SUR
+http://ottmo.co:8000/50803040338338/47874753002875/236593
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMADURA TV" tvg-logo="http://xtitan.xyz:2082/images/feee1025036fb1a3f60f8fe1b7e3e30e.png" group-title="TOROS PESCA AUTONOMICOS",EXTREMADURA TV
+http://ottmo.co:8000/50803040338338/47874753002875/236597
+
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: M.LALIGA FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/campeonato_espanhol_hd.jpg" group-title="LA LIGA1",ES: M.LALIGA FHD
+http://goodipk.co:8000/50803040338338/47874753002875/30202
+#EXTINF:-1 tvg-id="MLaliga.es" tvg-name="ES: MOVISTAR LALIGA HD" tvg-logo="" group-title="LA LIGA1",ES: MOVISTAR LALIGA HD
+http://goodipk.co:8000/50803040338338/47874753002875/103307
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="" group-title="LA LIGA1",ES: M. LaLiga HD
+http://goodipk.co:8000/50803040338338/47874753002875/149070
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M.LALIGA" tvg-logo="" group-title="LA LIGA1",ES: M.LALIGA
+http://goodipk.co:8000/50803040338338/47874753002875/103244
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="ES: LaLiga BAR FHD" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="LA LIGA1",ES: LaLiga BAR FHD
+http://goodipk.co:8000/50803040338338/47874753002875/30024
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="M.LALIGA TV BAR HD" tvg-logo="" group-title="LA LIGA1",ES:M.LALIGA TV BAR HD
+http://goodipk.co:8000/50803040338338/47874753002875/103306
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="ES: LALIGATV BAR 1" tvg-logo="https://www.gamestop.es/wp-content/uploads/2019/04/La-Liga-TV.png" group-title="LA LIGA1",ES: LALIGATV BAR 1
+http://goodipk.co:8000/50803040338338/47874753002875/30119
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA SD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA1",MOVISTAR  LA LIGA SD
+http://goodipk.co:8000/50803040338338/47874753002875/236740
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA1",MOVISTAR LA LIGA HD ᴿ
+http://goodipk.co:8000/50803040338338/47874753002875/236739
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA FHD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA1",MOVISTAR LA LIGA FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236738
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA FHD H.265" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA1",MOVISTAR  LA LIGA FHD H.265
+http://goodipk.co:8000/50803040338338/47874753002875/236737
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA (OP B)" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA1",MOVISTAR LA LIGA (OP B)
+http://goodipk.co:8000/50803040338338/47874753002875/236736
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR SD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="LA LIGA1",LALIGATV BAR SD ᴿ
+http://goodipk.co:8000/50803040338338/47874753002875/236735
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="LA LIGA1",LA LIGA TV BAR HD
+http://goodipk.co:8000/50803040338338/47874753002875/236734
+#EXTINF:-1 tvg-id="" tvg-name="LIGATV BAR FHD" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="LA LIGA1",LIGATV BAR FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236733
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1( SOLO EVENTO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA1",MOVISTAR LA LIGA 1( SOLO EVENTO)
+http://goodipk.co:8000/50803040338338/47874753002875/236732
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA1",MOVISTAR LA LIGA 1 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236731
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 FHD " tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA1",MOVISTAR LA LIGA 1 FHD 
+http://goodipk.co:8000/50803040338338/47874753002875/236730
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 HD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA1",MOVISTAR LA LIGA 2 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236729
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 2 FHD" tvg-logo="http://xtitan.xyz:2082/images/de1cfd334d52a0f07bf9ce446bdccc4a.png" group-title="LA LIGA1",MOVISTAR  LA LIGA 2 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236728
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 3 SD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA1",MOVISTAR  LA LIGA 3 SD
+http://goodipk.co:8000/50803040338338/47874753002875/236727
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA1",MOVISTAR LA LIGA 3 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236726
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA1",MOVISTAR LA LIGA 3 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236725
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 4 HD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="LA LIGA1",MOVISTAR  LA LIGA 4 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236724
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA1",MOVISTAR LA LIGA 4 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236723
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 5 SD" tvg-logo="http://xtitan.xyz:2082/images/7e9dab50e6fba180ad93b9ed27155082.png" group-title="LA LIGA1",MOVISTAR  LA LIGA 5 SD
+http://goodipk.co:8000/50803040338338/47874753002875/236722
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA1",MOVISTAR LA LIGA 5 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236721
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA1",MOVISTAR LA LIGA 5 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236720
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA1",MOVISTAR  LA LIGA 6 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236719
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK  TV SD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA1",ES: LA LIGA SMARTBANK  TV SD
+http://goodipk.co:8000/50803040338338/47874753002875/236960
+#EXTINF:-1 tvg-id="" tvg-name="ES:  LA LIGA SMARTBANK TV HD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA1",ES:  LA LIGA SMARTBANK TV HD
+http://goodipk.co:8000/50803040338338/47874753002875/236959
+#EXTINF:-1 tvg-id="" tvg-name="ES:LA LIGA SMARTBANK TV FHD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA1",ES:LA LIGA SMARTBANK TV FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236958
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV FHD (OP1)" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA1",ES: LA LIGA SMARTBANK TV FHD (OP1)
+http://goodipk.co:8000/50803040338338/47874753002875/236957
+#EXTINF:-1 tvg-id="" tvg-name="ES LA LIGA SMARTBANK TV 1 SD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA1",ES LA LIGA SMARTBANK TV 1 SD
+http://goodipk.co:8000/50803040338338/47874753002875/236956
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV 1 HD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA1",ES: LA LIGA SMARTBANK TV 1 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236955
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV 1 FHD" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA1",ES: LA LIGA SMARTBANK TV 1 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236954
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV 1 FHD  (OP1)" tvg-logo="https://2.bp.blogspot.com/-KiVS5DYtleU/XUQr6esgoeI/AAAAAAACCQQ/FR4T3_SNT0Ab73uOE_xWbBQgcTUFymQmwCLcBGAs/s1600/00-la-lia-new-nae%2B%25281%2529.png" group-title="LA LIGA1",ES: LA LIGA SMARTBANK TV 1 FHD  (OP1)
+http://goodipk.co:8000/50803040338338/47874753002875/236953
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 1 SD" tvg-logo="" group-title="DAZN LIGA - DAZN1",M. DAZN LA LIGA 1 SD
+http://goodipk.co:8000/50803040338338/47874753002875/236745
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 1 HD" tvg-logo="" group-title="DAZN LIGA - DAZN1",M. DAZN LA LIGA 1 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236744
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 1 FHD" tvg-logo="" group-title="DAZN LIGA - DAZN1",M. DAZN LA LIGA 1 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236743
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 2 SD" tvg-logo="" group-title="DAZN LIGA - DAZN1",M. DAZN LA LIGA 2 SD
+http://goodipk.co:8000/50803040338338/47874753002875/236742
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN LA LIGA 2 FHD" tvg-logo="" group-title="DAZN LIGA - DAZN1",M. DAZN LA LIGA 2 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236741
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 1
+http://goodipk.co:8000/50803040338338/47874753002875/236692
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 1 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236691
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 1 FHD.
+http://goodipk.co:8000/50803040338338/47874753002875/236690
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana FHD" tvg-logo="" group-title="DAZN LIGA - DAZN1",ES: Dazn 1 Espana FHD
+http://goodipk.co:8000/50803040338338/47874753002875/149075
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana HD" tvg-logo="" group-title="DAZN LIGA - DAZN1",ES: Dazn 1 Espana HD
+http://goodipk.co:8000/50803040338338/47874753002875/149074
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana FHD" tvg-logo="" group-title="DAZN LIGA - DAZN1",ES: Dazn 2 Espana FHD
+http://goodipk.co:8000/50803040338338/47874753002875/149073
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana HD" tvg-logo="" group-title="DAZN LIGA - DAZN1",ES: Dazn 2 Espana HD
+http://goodipk.co:8000/50803040338338/47874753002875/149072
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 1 FHD" tvg-logo="" group-title="DAZN LIGA - DAZN1",ES: M. Dazn 1 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/149068
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 2 FHD" tvg-logo="" group-title="DAZN LIGA - DAZN1",ES: M. Dazn 2 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/149067
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: DAZN 2" tvg-logo="https://www.lemagsportauto.com/wp-content/uploads/2016/11/Moto-GP-horaires-des-libres-et-qualifications-du-GP-de-Valence-e1478925856702.jpg" group-title="DAZN LIGA - DAZN1",ES: DAZN 2 
+http://goodipk.co:8000/50803040338338/47874753002875/86823
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 2
+http://goodipk.co:8000/50803040338338/47874753002875/236689
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2 HD " tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 2 HD 
+http://goodipk.co:8000/50803040338338/47874753002875/236688
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 2 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236687
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2 FHD." tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 2 FHD.
+http://goodipk.co:8000/50803040338338/47874753002875/236686
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 3 HD." tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 3 HD.
+http://goodipk.co:8000/50803040338338/47874753002875/236685
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 3 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 3 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236684
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 4 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236683
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 4 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR 4 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236682
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR  F1 ᴿ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR  F1 ᴿ
+http://goodipk.co:8000/50803040338338/47874753002875/236696
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR F1 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236695
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR F1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR F1 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236694
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR F1 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN LIGA - DAZN1",DAZN MOVISTAR F1 4K
+http://goodipk.co:8000/50803040338338/47874753002875/236693
+
+
+#EXTINF:-1 tvg-id="M.LIGA DE CAMPEONES" tvg-name="M.LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LIGA DE CAMPEONES1",ES: M.LIGA DE CAMPEONES
+http://goodipk.co:8000/50803040338338/47874753002875/30029
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="ES: LIGA CAMPEONES 2 HD" tvg-logo="http://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/54/M_Liga-de-Campeones_2.png" group-title="LIGA DE CAMPEONES1",ES: LIGA CAMPEONES 2 HD
+http://goodipk.co:8000/50803040338338/47874753002875/30026
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="LIGA DE CAMPEONES1",ES: LIGA CAMPEONES
+http://goodipk.co:8000/50803040338338/47874753002875/30025
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="LIGA DE CAMPEONES1",ES: LIGA CAMPEONES
+http://goodipk.co:8000/50803040338338/47874753002875/30130
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES SD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA CAMPEONES SD ᴿ
+http://goodipk.co:8000/50803040338338/47874753002875/236718
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES HD" tvg-logo="9http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA CAMPEONES HD
+http://goodipk.co:8000/50803040338338/47874753002875/236717
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES HD(OP B)" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA CAMPEONES HD(OP B)
+http://goodipk.co:8000/50803040338338/47874753002875/236716
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA CAMPEONES FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236715
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES FHD (OP B)" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA CAMPEONES FHD (OP B)
+http://goodipk.co:8000/50803040338338/47874753002875/236714
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 1 SD
+http://goodipk.co:8000/50803040338338/47874753002875/236713
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 1 HD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA CAMPEONES 1 HD ᴿ
+http://goodipk.co:8000/50803040338338/47874753002875/236712
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 1 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236711
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 2 SD
+http://goodipk.co:8000/50803040338338/47874753002875/236710
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236709
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 3
+http://goodipk.co:8000/50803040338338/47874753002875/236708
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 4
+http://goodipk.co:8000/50803040338338/47874753002875/236707
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 5
+http://goodipk.co:8000/50803040338338/47874753002875/236706
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 6
+http://goodipk.co:8000/50803040338338/47874753002875/236705
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 7
+http://goodipk.co:8000/50803040338338/47874753002875/236704
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES1",MOVISTAR LIGA DE CAMPEONES 8
+http://goodipk.co:8000/50803040338338/47874753002875/236703
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS SD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="VAMOS-DEPORTES1",MOVISTAR VAMOS SD ᴿ
+http://goodipk.co:8000/50803040338338/47874753002875/236765
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS HD" tvg-logo="http://x.mdcam.live:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="VAMOS-DEPORTES1",MOVISTAR VAMOS HD
+http://goodipk.co:8000/50803040338338/47874753002875/236764
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  VAMOS FHD" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="VAMOS-DEPORTES1",MOVISTAR  VAMOS FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236763
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES: MOVISTAR VAMOS" tvg-logo="https://www.adslzone.net/app/uploads/2018/08/vamos.jpg" group-title="VAMOS-DEPORTES1",ES: MOVISTAR VAMOS
+http://goodipk.co:8000/50803040338338/47874753002875/30108
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: M. DEPORTESHD" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="VAMOS-DEPORTES1",ES: M. DEPORTESHD
+http://goodipk.co:8000/50803040338338/47874753002875/30023
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: MOVISTAR DEPORTE HD" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png?resize=609%2C235" group-title="VAMOS-DEPORTES1",ES: MOVISTAR DEPORTE HD
+http://goodipk.co:8000/50803040338338/47874753002875/30016
+#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="ES: M. DEPORTES1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="VAMOS-DEPORTES1",ES: M. DEPORTES1
+http://goodipk.co:8000/50803040338338/47874753002875/30037
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES6" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="VAMOS-DEPORTES1",ES: M. DEPORTES6
+http://goodipk.co:8000/50803040338338/47874753002875/30032
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: MOVISTAR DEPORTES" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png?resize=609%2C235" group-title="VAMOS-DEPORTES1",ES: MOVISTAR DEPORTES
+http://goodipk.co:8000/50803040338338/47874753002875/30114
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES SD ᴿ" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES SD ᴿ
+http://goodipk.co:8000/50803040338338/47874753002875/236761
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES HD
+http://goodipk.co:8000/50803040338338/47874753002875/236760
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236759
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  DEPORTES 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="VAMOS-DEPORTES1",MOVISTAR  DEPORTES 1 SD
+http://goodipk.co:8000/50803040338338/47874753002875/236758
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 1 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236757
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 1 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236756
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 2 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236755
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 2 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236754
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 3 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236753
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 3 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236752
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 4 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 4 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236751
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES  4 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES  4 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236750
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 4 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 4 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236749
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES  5 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES  5 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236748
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 5 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 5 FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236747
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 6 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="VAMOS-DEPORTES1",MOVISTAR DEPORTES 6 HD
+http://goodipk.co:8000/50803040338338/47874753002875/236746
+goodipk.co:8000/50803040338338/47874753002875/236641
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="TOROS PESCA AUTONOMICOS1",TOROS HD
+http://goodipk.co:8000/50803040338338/47874753002875/236640
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV FHD" tvg-logo="http://bm-7-arephmhhbsb5brbb.z01.azurefd.net:80/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="TOROS PESCA AUTONOMICOS1",TOROS TV FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236639
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA  SD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="TOROS PESCA AUTONOMICOS1",CAZA Y PESCA  SD
+http://goodipk.co:8000/50803040338338/47874753002875/236638
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA  HD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="TOROS PESCA AUTONOMICOS1",CAZA Y PESCA  HD
+http://goodipk.co:8000/50803040338338/47874753002875/236637
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA  FHD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="TOROS PESCA AUTONOMICOS1",CAZA Y PESCA  FHD
+http://goodipk.co:8000/50803040338338/47874753002875/236636
+#EXTINF:-1 tvg-id="" tvg-name="ANDALUCIA TV" tvg-logo="http://xtitan.xyz:2082/images/ac3dbeac05bddeae4ca8e3bd0a8c5544.png" group-title="TOROS PESCA AUTONOMICOS1",ANDALUCIA TV
+http://goodipk.co:8000/50803040338338/47874753002875/236594
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR" tvg-logo="http://xtitan.xyz:2082/images/ac45c34b1c8bee0f7fc7399817c160cd.png" group-title="TOROS PESCA AUTONOMICOS1",CANAL SUR
+http://goodipk.co:8000/50803040338338/47874753002875/236593
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMADURA TV" tvg-logo="http://xtitan.xyz:2082/images/feee1025036fb1a3f60f8fe1b7e3e30e.png" group-title="TOROS PESCA AUTONOMICOS1",EXTREMADURA TV
+http://goodipk.co:8000/50803040338338/47874753002875/236597
